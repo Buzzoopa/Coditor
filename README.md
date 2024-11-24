@@ -1,0 +1,2 @@
+# Coditor
+Simple code editor
